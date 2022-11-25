@@ -1,0 +1,29 @@
+:root{
+    --bs-success-rgb: 181, 178, 172;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #b5b2ac;
+}
+
+footer{
+    padding: 1rem;
+    font-size: larger;
+    text-align: center;
+}
+body{
+    background-color: #847663;
+    margin: 1rem;
+}
+img{
+    padding: 1rem;
+}
+ul{
+    padding: 1rem; 
+}
+h4{
+    color: #b5b2ac;
+}
+h1{
+    text-align: center;
+}
